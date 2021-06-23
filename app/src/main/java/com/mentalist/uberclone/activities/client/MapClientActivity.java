@@ -82,6 +82,7 @@ public class MapClientActivity extends AppCompatActivity implements OnMapReadyCa
     private AuthProvider mAuthProvider;
     private GoogleMap mMap;
     private SupportMapFragment mMapFragment;
+    //Comentario de linea
 
     private LocationRequest mLocationRequest;
     private FusedLocationProviderClient mFusedLocation;
